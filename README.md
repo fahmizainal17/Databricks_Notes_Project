@@ -2,6 +2,10 @@
 
 ---
 ![alt text](photos/Databricks-UI.webp)
+
+### New UI for Sidebar
+![alt text](photos/New_Databricks_UI_Sidebar.png)
+
 ## **Technologies Used 🔧**
 
 <div>
