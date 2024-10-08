@@ -6,7 +6,7 @@
 
 <div>
     <h1 style="text-align: center;">Databricks and Data Analytics Technologies</h1>
-    <img style="text-align: left" src="https://img.icons8.com/color/48/000000/databricks.png](https://logotyp.us/file/databricks.svg" width="10%" alt="Databricks Logo" />
+    <img style="text-align: left" src="https://logotyp.us/file/databricks.svg" width="10%" alt="Databricks Logo" />
     <img style="text-align: left" src="https://img.icons8.com/color/48/000000/apache-spark.png" width="10%" alt="Apache Spark Logo" />
     <img style="text-align: left" src="https://img.icons8.com/color/48/000000/python.png" width="10%" alt="Python Logo" />
     <img style="text-align: left" src="https://img.icons8.com/color/48/000000/sql.png" width="10%" alt="SQL Logo" />
