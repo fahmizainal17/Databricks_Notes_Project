@@ -1,7 +1,7 @@
 # **📚 Databricks Comprehensive Guide for new hires**
 
 ---
-
+![alt text](photos/Databricks-UI.webp)
 ## **Technologies Used 🔧**
 
 <div>
