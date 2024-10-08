@@ -1,4 +1,4 @@
-# **📚 Databricks Comprehensive Guide for New Hires**
+# **📚 Databricks Comprehensive Guide for new hires**
 
 ---
 
